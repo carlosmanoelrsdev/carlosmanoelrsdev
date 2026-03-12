@@ -41,8 +41,8 @@ Há mais de 2 anos venho me dedicando ao desenvolvimento de software, com foco e
 
 <img
     align="left"
-    alt="VSCode"
-    title="VSCode"
+    alt="IntelliJ"
+    title="IntelliJ"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
@@ -50,8 +50,8 @@ Há mais de 2 anos venho me dedicando ao desenvolvimento de software, com foco e
 
 <img
     align="left"
-    alt="VSCode"
-    title="VSCode"
+    alt="Git"
+    title="Git"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
@@ -79,4 +79,5 @@ Há mais de 2 anos venho me dedicando ao desenvolvimento de software, com foco e
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmanoelrsdev&layout=compact&theme=tokyonight&locale=pt-br"
     width=45%
     />
+    
 </p>
