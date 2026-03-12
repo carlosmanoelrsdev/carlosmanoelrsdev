@@ -77,6 +77,6 @@ Há mais de 2 anos venho me dedicando ao desenvolvimento de software, com foco e
     height="200" 
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmanoelrsdev&layout=compact&theme=tokyonight&locale=pt-br"
-    width=49%
+    width=45%
     />
 </p>
