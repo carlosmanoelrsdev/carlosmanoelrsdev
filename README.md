@@ -1,16 +1,82 @@
-## Hi there 👋
+## Carlos Manoel
 
-<!--
-**carlosmanoelrsdev/carlosmanoelrsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Carlos Manoel, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia — desde cedo enxerguei nela uma poderosa aliada para resolver problemas e automatizar tarefas do dia a dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Há mais de 2 anos venho me dedicando ao desenvolvimento de software, com foco em construir soluções eficientes e bem estruturadas. Estou em constante evolução, sempre buscando aprender novas tecnologias, boas práticas e tendências do mercado.
+
+
+---
+
+### Linguagens e Tecnologias
+
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    />
+        
+<img
+    align="left"
+        alt="Java"
+        title="Java"
+        width="30px"
+        style="padding-right: 10px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+        />
+
+
+<img
+    align="left"
+    alt="VSCode"
+    title="VSCode"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+    />
+
+<img
+    align="left"
+    alt="VSCode"
+    title="VSCode"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+    />
+
+<img
+    align="left"
+    alt="VSCode"
+    title="VSCode"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    />
+
+<br/>
+<br/>
+
+---
+### Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=carlosmanoelrsdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" width="45%"
+    />
+
+  <img
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmanoelrsdev&layout=compact&theme=tokyonight&locale=pt-br"
+    width=49%
+    />
+</p>
