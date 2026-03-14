@@ -4,7 +4,7 @@
 
 Olá! Me chamo Carlos Manoel, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia — desde cedo enxerguei nela uma poderosa aliada para resolver problemas e automatizar tarefas do dia a dia.
 
-Há mais de 2 anos venho me dedicando ao desenvolvimento de software, com foco em construir soluções eficientes e bem estruturadas. Estou em constante evolução, sempre buscando aprender novas tecnologias, boas práticas e tendências do mercado.
+Atualmente estou no 3º semestre, focado no desenvolvimento de software e na criação de soluções eficientes e bem organizadas. Estou em constante evolução, sempre buscando aprender novas tecnologias, boas práticas e tendências do mercado.
 
 
 ---
