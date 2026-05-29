@@ -68,7 +68,7 @@ Atualmente estou no 3º semestre, focado no desenvolvimento de software e na cri
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=carlosmanoelrsdev&show_icons=true&theme=tokyonight&&locale=pt-br" width="45%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosmanoelrsdev&show_icons=true&theme=dark&title_color=7DD3FC&icon_color=7DD3FC&text_color=BAE6FD&border_color=7DD3FC" width="45%"
     />
 
   <img
@@ -76,7 +76,7 @@ Atualmente estou no 3º semestre, focado no desenvolvimento de software e na cri
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmanoelrsdev&layout=compact&theme=tokyonight&locale=pt-br"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosmanoelrsdev&layout=compact&theme=dark&title_color=7DD3FC&text_color=BAE6FD&border_color=7DD3FC"
     width=45%
     />
     
