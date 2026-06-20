@@ -1,6 +1,6 @@
-## Carlos Manoel
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Carlos+Manoel;Back-End+Developer)](https://git.io/typing-svg)
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-End`**
 
 Olá! Me chamo Carlos Manoel, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia — desde cedo enxerguei nela uma poderosa aliada para resolver problemas e automatizar tarefas do dia a dia.
 
