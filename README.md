@@ -29,6 +29,23 @@ Atualmente estou no 4º semestre, focado no desenvolvimento de software e na cri
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
         />
 
+<img 
+    align="left"
+    alt="Maven"
+    title="Maven"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
+    />
+
+<img 
+    align="left"
+    alt="Spring"
+    title="Spring"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+    />
 
 <img
     align="left"
