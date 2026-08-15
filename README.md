@@ -82,27 +82,25 @@ Atualmente estou no 4º semestre, focado no desenvolvimento de software e na cri
 
 <p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 20px;"
     src="https://github-stats-extended.vercel.app/api?username=carlosmanoelrsdev&show_icons=true&theme=dark&title_color=7DD3FC&icon_color=7DD3FC&text_color=BAE6FD&border_color=7DD3FC&include_all_commits=true"
     width="45%"
   />
 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <img
-    align="right" 
     alt="Top Languages" 
     height="200" 
-    style="padding-left: 20px;"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=carlosmanoelrsdev&layout=donut&theme=dark&title_color=7DD3FC&text_color=BAE6FD&border_color=7DD3FC"
     width="45%"
   />
 </p>
 
-<br clear="both">
+<br><br>
 
-<p align="center" style="margin-top: 25px;">
+<p align="center">
   <img
     alt="GitHub Streak"
     height="200"
