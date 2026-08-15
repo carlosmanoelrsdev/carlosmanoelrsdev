@@ -90,7 +90,7 @@ Atualmente estou no 4º semestre, focado no desenvolvimento de software e na cri
       />
     </td>
 
-    <td align="center" width="50%">
+<td align="center" width="50%">
       <img
         alt="Top Languages"
         height="200"
