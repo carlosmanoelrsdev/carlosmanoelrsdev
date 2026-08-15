@@ -102,7 +102,7 @@ Atualmente estou no 4º semestre, focado no desenvolvimento de software e na cri
 
 <br clear="both">
 
-<p align="center" style="margin-top: 20px;">
+<p align="center" style="margin-top: 25px;">
   <img
     alt="GitHub Streak"
     height="200"
