@@ -80,9 +80,9 @@ Atualmente estou no 4º semestre, focado no desenvolvimento de software e na cri
 ---
 ### Estatísticas
 
-<table>
+<table border="0">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: 0;">
       <img
         alt="GitHub Stats"
         height="200"
@@ -90,7 +90,7 @@ Atualmente estou no 4º semestre, focado no desenvolvimento de software e na cri
       />
     </td>
 
-<td align="center" width="50%">
+<td align="center" width="50%" style="border: 0;">
       <img
         alt="Top Languages"
         height="200"
@@ -100,7 +100,7 @@ Atualmente estou no 4º semestre, focado no desenvolvimento de software e na cri
   </tr>
 
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="2" align="center" style="border: 0;">
       <br><br>
       <img
         alt="GitHub Streak"
